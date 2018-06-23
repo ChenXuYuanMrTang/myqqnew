@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff">
+    <Button
+        android:text="创建群聊"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    <Button
+        android:text="加好友/群"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    <Button
+        android:text="扫一扫"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    <Button
+        android:text="面对面快传"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    <Button
+        android:text="收付款"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+</LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="引力球"
+            android:background="#e8e8e8"
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+        <Button
+            android:text="卖萌大挑战"
+            android:background="#e8e8e8"
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+        <Button
+            android:textColor="#bcbcbc"
+            android:text="。。。"
+            android:background="#e8e8e8"
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+    </LinearLayout>
+
+</LinearLayout>
